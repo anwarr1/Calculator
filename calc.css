@@ -1,0 +1,47 @@
+.calc {
+  background-color: rgb(255, 247, 244);
+  position: absolute;
+  top: 25%;
+  left: 20%;
+  border: 1px solid rgb(248, 244, 244);
+  border-radius: 3%;
+}
+.col-5 .btn {
+  position: absolute;
+  top: 44%;
+  left: 64%;
+  border: 2px dashed rgb(122, 114, 94);
+  color: rgb(0, 0, 0);
+}
+.col-5 .btn:hover {
+  background-color: blue;
+  transition: 0.5s;
+}
+h2 {
+  text-align: right;
+  margin-bottom: 100px;
+  width: 100%;
+  font-size: 80px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button {
+  padding: 8px 35px;
+  background-color: rgb(53, 53, 56);
+  color: antiquewhite;
+  width: 100%;
+  border: 1.5px solid black;
+}
+button:hover {
+  opacity: 0.6;
+  transition: 0.4s;
+}
+
+#C {
+  height: 134px;
+}
+table {
+  margin-top: 98px;
+
+  width: 100%;
+}
